@@ -1,6 +1,5 @@
 <!-- ============================================  TITLE ======================================================  -->
-# REST API for Online Trip Management System
-
+# REST API for TourNest Trip Management System
 <!-- ============================================  DETAILS ======================================================  -->
 
 <li>An Collabrative Project Consisting Of the 5 Developer Depicting the implementation of the Trip Managment Platform like MakeMyTrip or Yatra.
