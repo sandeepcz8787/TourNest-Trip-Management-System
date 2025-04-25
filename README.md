@@ -2,7 +2,7 @@
 # REST API for TourNest Trip Management System
 <!-- ============================================  DETAILS ======================================================  -->
 
-<li>An Collabrative Project Consisting Of the 5 Developer Depicting the implementation of the Trip Managment Platform like MakeMyTrip or Yatra.
+<li>An Trip Managment Platform like MakeMyTrip or Yatra.
 <li>An developement of RESTful API for an application. This API performs all the fundamental CRUD operations of any with user validation at every step.
 <br>
 
